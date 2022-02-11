@@ -1,7 +1,7 @@
 #ifndef _led_included_
 #define _led_included_
 
-#include "../../STM32Hardware/hardware.h"
+#include "../STM32Hardware/hardware.h"
 
 class Led
 {
